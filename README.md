@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Piooooooo/Piooooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I'm Pio
+🎓 Computer Science Student
+💻 Backend Developer (PHP, MySQL)
+📊 Learning Data Analysis
+🚀 About
+Focused on building scalable backend systems and efficient database designs.
+Interested in solving real-world problems through structured and practical solutions.
+🛠️ Skills
+PHP, MySQL
+Data Structures & Algorithms
+DBMS, Computer Architecture
+Client-Server Systems
